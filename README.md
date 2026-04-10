@@ -2,7 +2,7 @@
 
 This project contains custom implementations of core data structures using C++.
 
-## 🔧 Implemented Structures
+## 🔧 Core Data Structures
 
 - Dynamic Array
 - Stack (Array-based)
@@ -18,7 +18,7 @@ This project contains custom implementations of core data structures using C++.
 - Memory Management
 - Clean Code Practices
 
-## 🚀 Sample Features
+## 🚀 Key Features
 
 - Undo/Redo String system
 - Ticket Queue Simulation
