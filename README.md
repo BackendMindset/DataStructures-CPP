@@ -24,6 +24,13 @@ This project contains custom implementations of core data structures using C++.
 - Ticket Queue Simulation
 - Date calculations and utilities
 
-## 🧠 Author
+## 🧪 Example Usage
 
-Eslam Nasr
+```cpp
+clsQueueLine queue("A", 10);
+
+queue.IssueTicket();
+queue.IssueTicket();
+
+queue.PrintInfo();
+queue.PrintTicketsLineRTL();
