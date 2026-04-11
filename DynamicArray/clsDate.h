@@ -1,6 +1,3 @@
-//ProgrammingAdvices.com
-//Mohammed Abu-Hadhoud
-
 #pragma once
 #pragma warning(disable : 4996)
 
